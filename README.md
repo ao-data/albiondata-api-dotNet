@@ -1,7 +1,3 @@
-# THIS REPO IS ARCHIVED! THE ACTIVE REPO CAN BE FOUND [HERE](https://github.com/ao-data/albiondata-api-dotNet)! (ao-data/albiondata-api-dotNet)
-<br/><br/><br/><br/><br/><br/><br/><br/>
-
-
 # albiondata-api-dotNet
 .Net Core Cross-Platform api for albiondata
 
